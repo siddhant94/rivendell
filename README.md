@@ -1,0 +1,2 @@
+# rivendell
+Rorodata assignment
